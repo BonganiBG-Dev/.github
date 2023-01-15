@@ -23,7 +23,7 @@
 
 
 ## Overview 
-Welcome to PC Part Hunter, we aim to be the one stop shop for browsing new PC parts in South Africa. As PC hardware geeks, it can get very complicated finding the best deals on PC parts and the task is made harder when services like [PC Part Picker]() only cater to the US and European market
+Welcome to PC Part Hunter, we aim to be the one stop shop for browsing new PC parts in South Africa. As PC hardware geeks, it can get very complicated finding the best deals on PC parts and the task is made harder when services like [PC Part Picker](https://pcpartpicker.com) only cater to the US and European market
 
 ## Features
 #### Current
@@ -45,18 +45,18 @@ Welcome to PC Part Hunter, we aim to be the one stop shop for browsing new PC pa
 The system is built using a microservice architecture. There are currently 4 services involved in the whole system.
 
 #### Services
-1. [Scraping Service]()
-2. [Filtering Service]()
-3. [API]()
-4. [Frontend Application]()
+1. [Scraping Service](https://github.com/PC-Part-Hunter/web-scraper)
+2. [Filtering Service](https://github.com/PC-Part-Hunter/parts-filter)
+3. [API](https://github.com/PC-Part-Hunter/api)
+4. [Frontend Application](https://github.com/PC-Part-Hunter/frontend)
 
-The goal for the system is to add more advanced features to the [Filtering Service]() down the line so isolating it from the [Scraping Service]() and the [API]() will allow for that to happen. 
+The goal for the system is to add more advanced features to the [Filtering Service](https://github.com/PC-Part-Hunter/parts-filter) down the line so isolating it from the [Scraping Service](https://github.com/PC-Part-Hunter/web-scraper) and the [API](https://github.com/PC-Part-Hunter/api) will allow for that to happen. 
 
 
 ## Updates
-Although the system works, it is not yet production ready. A release date has not yet been set, but stay tuned for updates, you can [contact]() us on our unofficial channels to get updates
+Although the system works, it is not yet production ready. A release date has not yet been set, but stay tuned for updates, you can [contact](#contact) us on our unofficial channels to get updates
 
 ## Contact 
-- [Instagram]()
-- [Twitter]()
-- [Email]()
+- [Instagram](https://www.instagram.com/killshiftgamer/)
+- [Twitter](https://mobile.twitter.com/killshiftgamers)
+- [Email](bonganibg@proton.me)
